@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 </p>
 
-<h3 align="center">🔍 Tool & Database </h3>
+<h3 align="center">🔨 Tool & Database </h3>
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -75,5 +75,5 @@ Here are some ideas to get you started:
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=titlepnp&show_icons=true&locale=en" alt="titlepnp" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=titlepnp&" alt="titlepnp" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=titlepnp&show_icons=true&locale=en" alt="titlepnp" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=titlepnp&" alt="titlepnp" /></p>
 
