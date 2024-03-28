@@ -18,19 +18,19 @@ Here are some ideas to get you started:
 
 <p align="center">👨‍💻 I'm currently a Computer Science student at King Mongkut's Institute of Technology Ladkrabang (KMITL)</p>
 
-<p align="center">🚀 I'm on a journey to become a Full Stack Developer, with a keen interest in building scalable web applications that solve real-world problems. I'm learning both front-end and back-end technologies to achieve this goal.</p>
+<p align="left">🚀 I'm on a journey to become a Full Stack Developer, with a keen interest in building scalable web applications that solve real-world problems. I'm learning both front-end and back-end technologies to achieve this goal.</p>
 
-<p align="center">🔭 I'm currently working on various projects that involve technologies like JavaScript, React, Node.js, and more. I'm also exploring cloud services to enhance my full-stack development skills.</p>
+<p align="left">🔭 I'm currently working on various projects that involve technologies like JavaScript, React, Node.js, and more. I'm also exploring cloud services to enhance my full-stack development skills.</p>
 
-<p align="center">🌱 I'm passionate about learning and growing my skill set. I'm always open to collaborate on projects and keen to contribute to open source.</p>
+<p align="left">🌱 I'm passionate about learning and growing my skill set. I'm always open to collaborate on projects and keen to contribute to open source.</p>
 
-<p align="center">📫 How to reach me: <a href="mailto:your_email@example.com">your_email@example.com</a></p>
+<p align="left">📫 How to reach me: <a href="mailto:your_email@example.com">your_email@example.com</a></p>
 
-<p align="center">💼 Check out my portfolio: <a href="your_portfolio_link">Your Portfolio Link</a></p>
+<p align="left">💼 Check out my portfolio: <a href="your_portfolio_link">Your Portfolio Link</a></p>
 
-<p align="center">📄 Know about my experiences: <a href="your_resume_link">Your Resume/CV Link</a></p>
+<p align="left">📄 Know about my experiences: <a href="your_resume_link">Your Resume/CV Link</a></p>
 
-<p align="center">⚡ Fun fact: I love to play guitar and explore new technologies!</p>
+<p align="left">⚡ Fun fact: I love to play guitar and explore new technologies!</p>
 
 <h3 align="center">📱Connect with me:</h3>
 <p align="center">
