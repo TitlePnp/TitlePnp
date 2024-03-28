@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 <p align="center">👨‍💻 I'm currently a Computer Science student at King Mongkut's Institute of Technology Ladkrabang (KMITL)</p>
 
+<hr>
+
 <p align="left">🚀 I'm on a journey to become a Full Stack Developer, and learning both front-end and back-end technologies to achieve this goal.</p>
 
 <p align="left">📫 How to reach me: <a href="mailto:pphanupong.tle@gmail.com">pphanupong.tle@gmail.com</a></p>
