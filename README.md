@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left">📫 How to reach me: <a href="mailto:pphanupong.tle@gmail.com">pphanupong.tle@gmail.com</a></p>
 
-<p align="left">💼 Check out my portfolio: <a href="your_portfolio_link">Portfolio Link</a></p>
+<!-- <p align="left">💼 Check out my portfolio: <a href="your_portfolio_link">Portfolio Link</a></p> -->
 
 <p align="left">⚡ Fun fact: I love to play basketball and Farming Game!</p>
 
